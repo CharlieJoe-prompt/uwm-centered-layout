@@ -1,17 +1,17 @@
-html {
+html{
     background-color: aliceblue;
 }
 body{
     margin: 0%;
     
 }
-.header {
+.header{
     background-color: rgb(190, 225, 255);
     max-width: 100%;
     
 
 }
-.header-text {
+.header-text{
     max-width: 900px;
     margin: auto;
     display: flex;
@@ -21,7 +21,7 @@ body{
     padding-bottom: 15px;
 
 }
-.main-content {
+.main-content{
     background-color: rgb(255, 180, 195);
     max-width: 100%;
     
@@ -37,12 +37,12 @@ body{
     padding-bottom: 15px;
 
 }
-.footer {
+.footer{
     background-color: rgb(159, 255, 223);
     width:100%;
 
 }
-.footer-text {
+.footer-text{
     max-width: 900px;
     margin: auto;
     display: flex;
